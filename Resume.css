@@ -1,0 +1,28 @@
+body,h1,h2,h3,h4,h5,h6,p{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h2{
+	text-decoration:underline;
+}
+.p{
+    background-color: rgba(240, 244, 245, 0.938);
+    padding: 100px 100px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px;
+	font-size:20px;
+}
+
+
+img{
+	height:200px;
+	width:150px;
+}
+
+ .heading{
+	 font-size: 30px;
+	 text-align:center;
+ }
+ body{
+	 background-color:#788f87;
+ }
